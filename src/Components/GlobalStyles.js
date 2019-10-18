@@ -13,7 +13,7 @@ const globalStyles = createGlobalStyle`
         color: inherit;
     }
     body {
-        padding-top: 50px;
+        padding-top: 80px;
         background: rgba(20, 20, 20, 1);
         font-family: 'Noto Sans KR', sans-serif;
         font-size: 1rem;
