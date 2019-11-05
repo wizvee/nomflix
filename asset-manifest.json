@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/nomflix/static/js/main.31ebbb2a.chunk.js",
-    "main.js.map": "/nomflix/static/js/main.31ebbb2a.chunk.js.map",
+    "main.js": "/nomflix/static/js/main.0d7090be.chunk.js",
+    "main.js.map": "/nomflix/static/js/main.0d7090be.chunk.js.map",
     "runtime-main.js": "/nomflix/static/js/runtime-main.45bad8e0.js",
     "runtime-main.js.map": "/nomflix/static/js/runtime-main.45bad8e0.js.map",
     "static/js/2.52c93f1c.chunk.js": "/nomflix/static/js/2.52c93f1c.chunk.js",
     "static/js/2.52c93f1c.chunk.js.map": "/nomflix/static/js/2.52c93f1c.chunk.js.map",
     "index.html": "/nomflix/index.html",
-    "precache-manifest.08df20c20f5b572ae5375b6aef975f11.js": "/nomflix/precache-manifest.08df20c20f5b572ae5375b6aef975f11.js",
+    "precache-manifest.41c4678bf589c20de18232ba2bd25999.js": "/nomflix/precache-manifest.41c4678bf589c20de18232ba2bd25999.js",
     "service-worker.js": "/nomflix/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.45bad8e0.js",
     "static/js/2.52c93f1c.chunk.js",
-    "static/js/main.31ebbb2a.chunk.js"
+    "static/js/main.0d7090be.chunk.js"
   ]
 }
