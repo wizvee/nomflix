@@ -18,12 +18,12 @@ export default () => (
     <>
       <Header />
       <Switch>
-        <Route path="wizvee.github.io/nomflix" exact component={Home} />
-        <Route path="wizvee.github.io/nomflix/tv" component={TV} />
-        <Route path="wizvee.github.io/nomflix/search" component={Search} />
-        <Route path="wizvee.github.io/nomflix/movie/:id" component={Detail} />
-        <Route path="wizvee.github.io/nomflix/show/:id" component={Detail} />
-        <Redirect from="*" to="wizvee.github.io/nomflix" />
+        <Route path="/nomflix" exact component={Home} />
+        <Route path="/nomflix/tv" component={TV} />
+        <Route path="/nomflix/search" component={Search} />
+        <Route path="/nomflix/movie/:id" component={Detail} />
+        <Route path="/nomflix/show/:id" component={Detail} />
+        <Redirect from="*" to="/nomflix" />
       </Switch>
     </>
   </Router>
