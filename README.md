@@ -2,6 +2,10 @@
 
 Learning React and by building a Movie Discovery App.
 
+## Preview
+
+[https://wizvee.github.io/nomflix/](https://wizvee.github.io/nomflix/)
+
 ## Screens
 
 - [x] Home
