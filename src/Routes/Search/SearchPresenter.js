@@ -1,4 +1,5 @@
 import React from "react";
+import Helmet from "react-helmet";
 import styled from "styled-components";
 import Loader from "../../Components/Loader";
 import Section from "../../Components/Section";
@@ -31,6 +32,9 @@ const SearchPresenter = ({
 }) => {
   return (
     <Container>
+      <Helmet>
+        <title>Search | Nomflix</title>
+      </Helmet>
       <Form onSubmit={handleSubmit}>
         <Input
           placeholder="Search Moives or TV Shows..."
