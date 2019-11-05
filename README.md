@@ -1,18 +1,29 @@
 # Nomflix
+
 Learning React and by building a Movie Discovery App.
 
 ## Screens
-- [ ] Home
-- [ ] TV Shows
-- [ ] Search
-- [ ] Detail
+
+- [x] Home
+- [x] TV Shows
+- [x] Search
+- [x] Detail
 
 ## API Verbs
-- [X] Now playing (Movie)
-- [X] Upcoming (Movie)
-- [X] Popular (TV, X)
-- [X] Top Rated (TV)
-- [X] Airing Today (TV)
-- [X] TV Show Detail
-- [X] Movie Deatail
-- [X] Search (Movie, TV)
+
+- [x] Now playing (Movie)
+- [x] Upcoming (Movie)
+- [x] Popular (TV, X)
+- [x] Top Rated (TV)
+- [x] Airing Today (TV)
+- [x] TV Show Detail
+- [x] Movie Deatail
+- [x] Search (Movie, TV)
+
+## Code Challenges
+
+- [ ] IMDB Link
+- [ ] Tabs inside of Moive / Show Details (YT Videos, Production Company & Countries)
+- [ ] Collections Link
+- [ ] /Collections Route
+- [ ] On TV Shows, show seasons and creators

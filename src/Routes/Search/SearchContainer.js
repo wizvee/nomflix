@@ -1,7 +1,6 @@
 import React from "react";
 import SearchPresenter from "./SearchPresenter";
 import { moviesApi, TVApi } from "api";
-import { tsImportEqualsDeclaration } from "@babel/types";
 export default class extends React.Component {
   state = {
     movieResults: null,
